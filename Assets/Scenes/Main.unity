@@ -748,6 +748,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5770215966759161333, guid: 5dd3db468ec121948b00eef40ff6035e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 29a51d7c0eb770d4794d461fdee3e739, type: 2}
     - target: {fileID: 8419554792386534423, guid: 5dd3db468ec121948b00eef40ff6035e, type: 3}
       propertyPath: m_Name
       value: CubeA
@@ -765,6 +769,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5073431061723669330, guid: c860e6d20f86da345a542cf387bb2e05, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1038827878d61ed4ea7395ff07be4502, type: 2}
     - target: {fileID: 5163828773574845785, guid: c860e6d20f86da345a542cf387bb2e05, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -822,6 +830,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2974621922322469073, guid: 3dddde70301376441b4d572feadfa6b8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c1b27eded9f3cdf4eba77636e5553381, type: 2}
     - target: {fileID: 8056974682558855807, guid: 3dddde70301376441b4d572feadfa6b8, type: 3}
       propertyPath: m_Name
       value: CubeB1
